@@ -1,42 +1,51 @@
 # Matrix Mesh
 
-A minimal interactive elastic mesh desktop toy for Linux, inspired by the eerie green aesthetic of *The Matrix*.
+A minimal interactive elastic mesh desktop toy for Linux, inspired by the iconic green cyber-aesthetic of *The Matrix*.
 
 Drag your mouse through the mesh and watch it ripple, stretch, and snap back with soft-body spring physics.
 
+---
+
 ## Preview
-![Preview 1](image.png)
+
+![Main Preview](image.png)
+
 ![Preview 2](image2.png)
+
 ![Preview 3](image3.png)
+
+---
+
 ## Features
 
-- Interactive elastic mesh
-- Matrix-inspired neon green visual style
-- Soft-body spring simulation
+- Interactive elastic mesh simulation
+- Matrix-inspired neon green theme
+- Soft-body spring physics
 - Borderless desktop toy window
-- Lightweight Python + Pygame setup
-- Startup intro screen: **WELCOME TO THE MATRIX**
+- Mouse-based ripple interaction
+- Startup intro screen with **WELCOME TO THE MATRIX**
+- Lightweight and easy to run with Python + Pygame
 
-## Demo
-
-The mesh reacts to mouse movement by applying force to nearby nodes.  
-It uses:
-- horizontal and vertical springs
-- optional diagonal support springs
-- damping for smooth settling
-- return-to-base restoring force
+---
 
 ## Tech Stack
 
 - Python
 - Pygame
 
+---
+
 ## Run Locally
 
-Clone the repo:
+Clone the repository:
 
 ```bash
 git clone https://github.com/adityakumar221210008/matrix-mesh.git
 cd matrix-mesh
+Install dependencies:
+
 pip install -r requirements.txt
+
+Run the program:
+
 python3 main.py
