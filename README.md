@@ -8,11 +8,11 @@ Drag your mouse through the mesh and watch it ripple, stretch, and snap back wit
 
 ## Preview
 
-![Main Preview](image.png)
+![Main Preview](assets/image.png)
 
-![Preview 2](image2.png)
+![Preview 2](assets/image2.png)
 
-![Preview 3](image3.png)
+![Preview 3](assets/image3.png)
 
 ---
 
