@@ -5,7 +5,9 @@ A minimal interactive elastic mesh desktop toy for Linux, inspired by the eerie 
 Drag your mouse through the mesh and watch it ripple, stretch, and snap back with soft-body spring physics.
 
 ## Preview
-(assets/image.png)
+![Preview 1](image.png)
+![Preview 2](image2.png)
+![Preview 3](image3.png)
 ## Features
 
 - Interactive elastic mesh
